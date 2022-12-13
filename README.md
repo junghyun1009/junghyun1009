@@ -55,6 +55,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
+<h2 align="center">🐱 Github Stats 🐱</h2>
+![JungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun1009&theme=buefy&show_icons=true)
+
 <!--
 **junghyun1009/junghyun1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
