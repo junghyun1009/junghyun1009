@@ -56,7 +56,7 @@
 </div>
 
 <h2 align="center">🐱 Github Stats 🐱</h2>
-![JungHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun1009&theme=buefy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junghyun1009&show_icons=true&theme=buefy)
 
 <!--
 **junghyun1009/junghyun1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
