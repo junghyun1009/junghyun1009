@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JungHyun&fontSize=80&fontAlign=50&fontAlignY=30&desc=Welcome%20to%20my%20github!)
 # Hi there👋, I'm JungHyun!
 
 <h2 align="center">🔮 Tech Stack 🔮</h2>
@@ -57,7 +58,8 @@
 
 <h2 align="center">🐱 Github Stats 🐱</h2>
 <a href="https://github.com/junghyun1009"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=junghyun1009&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="JungHyun's github stats" /></a>
-<a href="https://github.com/junghyun1009"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun1009&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/junghyun1009"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junghyun1009&layout=compact&theme=buefy&hide_border=true" /></a>
+
 <!--
 **junghyun1009/junghyun1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
